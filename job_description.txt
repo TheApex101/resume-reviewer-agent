@@ -1,0 +1,19 @@
+Job Title: Data Analyst - FinTech
+
+Company Overview:
+FinSpark is a fast-growing fintech company using data to transform how people manage personal finance. We’re seeking a data analyst who can extract actionable insights from financial and user behavior data.
+
+Responsibilities:
+- Analyze large datasets to identify key trends and opportunities for product improvement.
+- Use Python, SQL, and data visualization tools to communicate findings.
+- Partner with product managers and engineers to deliver data-driven solutions.
+- Build dashboards and data pipelines to support ongoing reporting needs.
+
+Qualifications:
+- Bachelor's degree in Business Analytics, Computer Science, or related field.
+- 1-2 years of experience in data analysis or a related role.
+- Proficiency in Python, SQL, and at least one visualization tool (e.g., Tableau, Power BI).
+- Strong communication and presentation skills.
+- Experience with financial data is a plus.
+
+Keywords: fintech, product insights, dashboards, SQL, Python, communication, user behavior, financial data

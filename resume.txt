@@ -1,0 +1,26 @@
+John Doe
+123 Main Street
+New York, NY 10001
+john.doe@email.com | (123) 456-7890 | linkedin.com/in/johndoe
+
+Professional Summary:
+Highly motivated data analyst with strong skills in SQL, Python, and data visualization. Experience in analyzing business trends and building dashboards to inform strategy.
+
+Experience:
+Data Analyst, XYZ Corp — New York, NY
+Jan 2022 – Present
+- Built automated dashboards using Tableau and Power BI, improving visibility into KPIs by 40%.
+- Wrote complex SQL queries to extract insights from customer data.
+- Collaborated with cross-functional teams to support data-driven decision making.
+
+Data Analyst Intern, ABC Inc — New York, NY
+June 2021 – Dec 2021
+- Conducted exploratory data analysis using Python (pandas, matplotlib).
+- Cleaned and preprocessed large datasets from internal and external sources.
+
+Education:
+B.S. in Information Systems, Rutgers University — May 2021
+Relevant coursework: Data Analytics, Business Intelligence, Database Systems
+
+Skills:
+SQL, Python, Tableau, Power BI, Excel, Data Cleaning, Statistical Analysis
